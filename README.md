@@ -16,7 +16,7 @@ A collection of various design patterns used in software development
 - 02-01: Adapter - Class
 - 02-02: Adapter - Object
 - 02-03: Bridge
-- 02-04: Composite
+- 02-04: [Composite](01-Creational)
 - 02-05: Decorator
 - 02-06: Facade
 - 02-07: Flyweight
