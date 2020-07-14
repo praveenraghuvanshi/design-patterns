@@ -4,6 +4,12 @@
 
 ## Structure
 
+#### Component
+
+Leaf
+
+Composite
+
 ## Implementation - Example
 
 ## Use case
