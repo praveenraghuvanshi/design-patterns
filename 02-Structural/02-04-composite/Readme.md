@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/praveenraghuvanshi/design-patterns.svg)](http://hits.dwyl.com/praveenraghuvanshi/design-patterns)
+
 # 02-04: Composite Design Pattern
 
 ### Type: Structural
