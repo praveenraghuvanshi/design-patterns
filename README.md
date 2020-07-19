@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/praveenraghuvanshi/design-patterns.svg)](http://hits.dwyl.com/praveenraghuvanshi/design-patterns)
+
 # Software Design Patterns
 A collection of various design patterns used in software development
 
