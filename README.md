@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/praveenraghuvanshi/design-patterns.svg)](http://hits.dwyl.com/praveenraghuvanshi/design-patterns)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fpraveenraghuvanshi%2Fdesign-patterns)
 
 # Software Design Patterns
 A collection of various design patterns used in software development
